@@ -237,4 +237,4 @@ Uninstall
 
    .. code-block:: bash
 
-    rmdir /s /q \ros2_foxy
+    rmdir /s /q \ros2_foxy 
